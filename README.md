@@ -1,9 +1,5 @@
 ### Parsing
 
-#### sed
-
-#### awk
-
 #### jq
 
 - [Cookbook](https://github.com/stedolan/jq/wiki/Cookbook)
